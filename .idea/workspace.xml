@@ -128,11 +128,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/advogados" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/images/advogados" />
     </key>
   </component>
@@ -151,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598107951280</updated>
       <workItem from="1598107952448" duration="4948000" />
-      <workItem from="1598588417221" duration="3062000" />
+      <workItem from="1598588417221" duration="3213000" />
     </task>
     <servers />
   </component>
